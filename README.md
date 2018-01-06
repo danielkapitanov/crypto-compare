@@ -4,7 +4,7 @@
 
 ### API + MVC application to monitor, predict and alert users on various CryptoCurrency prices
 
-##Technologies Used:
+## Technologies Used:
 
 Apache Tomcat
 Java
@@ -18,7 +18,7 @@ AWS RDS
 AWS Route53
 Apache Gemfire (caching)
 
-##Deployment Instructions:
+## Deployment Instructions:
 
 clone this repo
 create a local (or AWS RDS) MySql instance and restore it using the sql dump file provided in the resouces folder
